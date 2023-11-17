@@ -1,3 +1,5 @@
+// @ts-nocheck
+// @ts-ignore
 import { Connection, Keypair, SystemProgram, PublicKey } from
 "@solana/web3.js"
 import { Program, Wallet, AnchorProvider, Address } from
